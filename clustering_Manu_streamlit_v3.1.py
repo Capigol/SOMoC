@@ -71,7 +71,7 @@ The next workflow summarizes the steps performed by this method:
 """)
 
 
-image = Image.open('clustering_metodo_manu.png')
+image = Image.open('SOMoC_workflow.png')
 st.image(image, caption='Clustering Workflow')
 
 st.markdown("""
