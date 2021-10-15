@@ -35,7 +35,7 @@ from plotly.subplots import make_subplots
 #---------------------------------#
 # Page layout
 ## Page expands to full width
-st.set_page_config(page_title='LIDEB Tools - Hierarchical Clustering',
+st.set_page_config(page_title='LIDEB Tools - SOMoC',
     layout='wide')
 
 ######
@@ -59,7 +59,7 @@ st.markdown(":computer:""**Web Site** " "<https://lideb.biol.unlp.edu.ar>")
 #---------------------------------#
 
 st.write("""
-# LIDeB Tools
+# LIDeB Tools - SOMoC
 
 **It is a free web-application to cluster molecules based in molecular fingerprints**
 
