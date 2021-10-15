@@ -1,0 +1,21 @@
+name: LUDe
+channels:
+- rdkit
+- conda-forge
+- defaults
+dependencies:
+    - libgcc=5.2.0
+    - rdkit
+    - pip
+    - pip:
+        - pandas==1.2.5
+        - numpy==1.18.1
+        - scikit-learn==0.22.2.post1
+        - xgboost==1.0.2
+        - streamlit==1.0.0
+        - matplotlib==3.3.2
+        - plotly==5.0.0
+        - validclust
+	- umap
+	- janitor
+	- seaborn
