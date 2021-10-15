@@ -17,5 +17,5 @@ dependencies:
         - plotly==5.0.0
         - validclust
         - umap
-        - janitor
+        - pyjanitor
         - seaborn
