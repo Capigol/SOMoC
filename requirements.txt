@@ -3,3 +3,4 @@ rdkit==2020.09.1.0
 validclust
 umap-learn
 pyjanitor
+molvs
