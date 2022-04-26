@@ -19,3 +19,4 @@ dependencies:
         - umap-learn
         - pyjanitor
         - seaborn
+        - molvs
